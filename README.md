@@ -65,7 +65,7 @@ The dashboard integrates a variety of visuals to provide a comprehensive analysi
 This dashboard helps in understanding music trends, identifying top-performing artists and songs, and supporting data-driven decisions in the music industry. It demonstrates how visualization can simplify complex datasets and make insights more accessible for analysis and strategy.
 
 ### 📸 Dashboard Preview
-![Alt Text](https://github.com/vasvivkaushik-ship-it/spotify-analytics-dashboard/blob/main/Dashboard.png
+![Alt Text]![Dashboard Preview](https://github.com/vasvivkaushik-ship-it/spotify-analytics-dashboard/blob/main/Dashboard.png)
 
 ### 🎯 Learning Outcomes
 - 📊 Advanced data visualization techniques in Power BI
